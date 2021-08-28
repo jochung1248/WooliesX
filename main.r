@@ -29,7 +29,7 @@ access_token <- "1407665327312236545-8vUxSDZPct9BJyGUbcvJIOspKKow6S"
 access_secret <- "gHVqxTfyjst4XSl22n2EIEFyiwLsiVKq8nVW3qkv0p18V"
 
 token <- create_token(
-  app = "pratikn_wooliesx",
+  app = "joseph_wooliesx",
   consumer_key = api_key,
   consumer_secret = api_secret_key,
   access_token = access_token,
